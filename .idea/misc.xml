@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/drawable-anydpi/ic_add_image.xml" value="0.10555555555555556" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/drawable-anydpi/ic_default_img_icon.xml" value="0.10555555555555556" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/drawable-anydpi/ic_edit_icon.xml" value="0.10555555555555556" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/drawable/register.xml" value="0.2203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/layout/fragment_home.xml" value="0.15" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/layout/fragment_profile.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/layout/fragment_users.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/menu/menu_nav.xml" value="1.0607142857142857" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2046875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/javasocialapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2046875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
